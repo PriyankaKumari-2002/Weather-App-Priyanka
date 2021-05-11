@@ -43,10 +43,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/weatherCondition"
-            android:textSize="40sp"
-            android:textColor="#ffffff"
-            android:text="---------------"
-            android:paddingStart="18sp">
+            android:textSize="20sp"
+            android:textColor="#e1ad01"
+            android:text="App Developed by: Priyanka Kumari"
+            android:paddingStart="34sp">
 
         </TextView>
         <TextView
